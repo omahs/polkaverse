@@ -1,6 +1,6 @@
 # Example dapp on the Subsocial blockchain by [DappForce](https://github.com/dappforce)
 
-PolkaVerse is a niche social site built on the Subsocial network. It focuses on the Polkadot and Kusama ecosystem. You can use this this code to help you in the development of your own dapps running on or integrated with Subsocial.
+PolkaVerse is a niche social site built on the Subsocial network. It focuses on the Polkadot and Kusama ecosystem. You can use this code to help you in the development of your own dapps running on or integrated with Subsocial.
 
 Visit Subsocial's [website](https://subsocial.network) to learn more about the project.
 
@@ -13,7 +13,7 @@ git clone git@github.com:dappforce/polkaverse.git
 cd polkaverse
 ```
 
-Create an `.env` file with settings that allow the app to connect to Subsocial's infrastructure:
+Create a `.env` file with settings that allow the app to connect to Subsocial's infrastructure:
 
 ```sh
 cp dev.env .env
