@@ -1,7 +1,7 @@
 # Example dapp on the Subsocial blockchain by [DappForce](https://github.com/dappforce)
 ![Production Deploy](https://github.com/dappforce/polkaverse/actions/workflows/build-deploy.yml/badge.svg)
 
-PolkaVerse is a niche social site built on the Subsocial network. It focuses on the Polkadot and Kusama ecosystem. You can use this this code to help you in the development of your own dapps running on or integrated with Subsocial.
+PolkaVerse is a niche social site built on the Subsocial network. It focuses on the Polkadot and Kusama ecosystem. You can use this code to help you in the development of your own dapps running on or integrated with Subsocial.
 
 Visit Subsocial's [website](https://subsocial.network) to learn more about the project.
 
